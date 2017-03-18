@@ -1,0 +1,11 @@
+/Users/nobita/Desktop/playground/github/DevRocks.DemoTravis/Src/Tests/bin/Debug/netcoreapp1.1/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/Users/nobita/Desktop/playground/github/DevRocks.DemoTravis/Src/Tests/bin/Debug/netcoreapp1.1/xunit.runner.utility.netstandard15.dll
+/Users/nobita/Desktop/playground/github/DevRocks.DemoTravis/Src/Tests/bin/Debug/netcoreapp1.1/xunit.runner.reporters.netstandard15.dll
+/Users/nobita/Desktop/playground/github/DevRocks.DemoTravis/Src/Tests/bin/Debug/netcoreapp1.1/Tests.deps.json
+/Users/nobita/Desktop/playground/github/DevRocks.DemoTravis/Src/Tests/bin/Debug/netcoreapp1.1/Tests.runtimeconfig.json
+/Users/nobita/Desktop/playground/github/DevRocks.DemoTravis/Src/Tests/bin/Debug/netcoreapp1.1/Tests.runtimeconfig.dev.json
+/Users/nobita/Desktop/playground/github/DevRocks.DemoTravis/Src/Tests/bin/Debug/netcoreapp1.1/Tests.dll
+/Users/nobita/Desktop/playground/github/DevRocks.DemoTravis/Src/Tests/bin/Debug/netcoreapp1.1/Tests.pdb
+/Users/nobita/Desktop/playground/github/DevRocks.DemoTravis/Src/Tests/obj/Debug/netcoreapp1.1/Tests.AssemblyInfo.cs
+/Users/nobita/Desktop/playground/github/DevRocks.DemoTravis/Src/Tests/obj/Debug/netcoreapp1.1/Tests.dll
+/Users/nobita/Desktop/playground/github/DevRocks.DemoTravis/Src/Tests/obj/Debug/netcoreapp1.1/Tests.pdb

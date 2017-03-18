@@ -1,0 +1,8 @@
+/Users/nobita/Desktop/playground/github/DevRocks.DemoTravis/Src/Web/bin/Debug/netcoreapp1.1/Web.deps.json
+/Users/nobita/Desktop/playground/github/DevRocks.DemoTravis/Src/Web/bin/Debug/netcoreapp1.1/Web.runtimeconfig.json
+/Users/nobita/Desktop/playground/github/DevRocks.DemoTravis/Src/Web/bin/Debug/netcoreapp1.1/Web.runtimeconfig.dev.json
+/Users/nobita/Desktop/playground/github/DevRocks.DemoTravis/Src/Web/bin/Debug/netcoreapp1.1/Web.dll
+/Users/nobita/Desktop/playground/github/DevRocks.DemoTravis/Src/Web/bin/Debug/netcoreapp1.1/Web.pdb
+/Users/nobita/Desktop/playground/github/DevRocks.DemoTravis/Src/Web/obj/Debug/netcoreapp1.1/Web.AssemblyInfo.cs
+/Users/nobita/Desktop/playground/github/DevRocks.DemoTravis/Src/Web/obj/Debug/netcoreapp1.1/Web.dll
+/Users/nobita/Desktop/playground/github/DevRocks.DemoTravis/Src/Web/obj/Debug/netcoreapp1.1/Web.pdb
